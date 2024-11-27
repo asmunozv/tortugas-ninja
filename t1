@@ -91,7 +91,7 @@
 
   <!-- Logo y Encabezado -->
   <div class="text-center mb-6">
-    <img id="logo" src="turtle logo.jpg.png" alt="Tortugas Ninja Logo">
+    <img id="logo" src="turtle logo.png" alt="Tortugas Ninja Logo">
     <h1 class="text-3xl font-bold mt-4">Panel de Control - Tortugas Ninja</h1>
   </div>
 
